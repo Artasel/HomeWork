@@ -1,0 +1,11 @@
+C:\Users\Tarona\Desktop\HomeWork\Home4\bin\Debug\netcoreapp2.1\Home4.deps.json
+C:\Users\Tarona\Desktop\HomeWork\Home4\bin\Debug\netcoreapp2.1\Home4.runtimeconfig.json
+C:\Users\Tarona\Desktop\HomeWork\Home4\bin\Debug\netcoreapp2.1\Home4.runtimeconfig.dev.json
+C:\Users\Tarona\Desktop\HomeWork\Home4\bin\Debug\netcoreapp2.1\Home4.dll
+C:\Users\Tarona\Desktop\HomeWork\Home4\bin\Debug\netcoreapp2.1\Home4.pdb
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.csprojAssemblyReference.cache
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.csproj.CoreCompileInputs.cache
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.AssemblyInfoInputs.cache
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.AssemblyInfo.cs
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.dll
+C:\Users\Tarona\Desktop\HomeWork\Home4\obj\Debug\netcoreapp2.1\Home4.pdb
